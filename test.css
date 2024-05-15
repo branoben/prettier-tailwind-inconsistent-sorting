@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--variable: "";
+}
+
+@layer base {
+	.test {
+		@apply before:[mask-size:contain];
+	}
+}
