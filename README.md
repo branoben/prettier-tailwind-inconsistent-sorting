@@ -1,3 +1,5 @@
+[Update] This bug has been fixed in Tailwind v3.4.2.
+
 # Description
 
 An example repository to show inconsistent sorting using Prettier with Tailwind plugin.
